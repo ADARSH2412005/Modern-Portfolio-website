@@ -13,7 +13,10 @@
     <img src="https://img.shields.io/badge/-Lucide Icons-FD4D4D?style=for-the-badge&logo=lucide" alt="Lucide Icons" />
     <img src="https://img.shields.io/badge/-Radix UI-9D4EDD?style=for-the-badge&logo=data:image/svg+xml;base64..." alt="Radix UI" />
   </div>
-
+<h3 >This is a modern, fully responsive developer portfolio website built with React, Vite, and Tailwind CSS, designed to showcase personal projects, skills, and contact information in a clean and animated UI.</h3>
+  
+  </div>
+  <br />
 </div>
 
 ## ⚙️ Tech Stack
