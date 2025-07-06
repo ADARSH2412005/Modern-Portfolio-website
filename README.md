@@ -3,7 +3,7 @@
 <div align="center">
   <br />
   
-    <img src="./banner.png" alt="Portfolio Website Banner">
+    <img src="./adarsh.png" alt="Portfolio Website Banner">
   </a>
   <br />
   <div>
