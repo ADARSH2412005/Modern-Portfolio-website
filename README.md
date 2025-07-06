@@ -2,8 +2,9 @@
 
 <div align="center">
   <br />
-  
-    <img src="./![adarsh](https://github.com/user-attachments/assets/8ba02d6d-a8dc-4609-aa46-f960071bd2a4)"Portfolio Website Banner">
+  ![adarsh](https://github.com/user-attachments/assets/7ab376b0-9961-49ee-bcd3-32f89be02f94)
+
+    
   </a>
   <br />
   <div>
