@@ -3,7 +3,7 @@
 <div align="center">
   <br />
   
-    <img src="./C:\Users\Lenovo\Pictures\Screenshots" alt="Portfolio Website Banner">
+    <img src="./![adarsh](https://github.com/user-attachments/assets/8ba02d6d-a8dc-4609-aa46-f960071bd2a4)"Portfolio Website Banner">
   </a>
   <br />
   <div>
