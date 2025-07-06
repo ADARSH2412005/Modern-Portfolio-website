@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-  ![adarsh](https://github.com/user-attachments/assets/7ab376b0-9961-49ee-bcd3-32f89be02f94)
+  
 
     
   </a>
